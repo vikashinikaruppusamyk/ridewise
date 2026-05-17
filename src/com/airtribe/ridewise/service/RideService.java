@@ -5,7 +5,7 @@ import com.airtribe.ridewise.model.Driver;
 import com.airtribe.ridewise.model.FareReceipt;
 import com.airtribe.ridewise.model.Ride;
 import com.airtribe.ridewise.model.Rider;
-import com.airtribe.ridewise.RideStatus;
+import com.airtribe.ridewise.model.RideStatus;
 import com.airtribe.ridewise.strategy.FareStrategy;
 import com.airtribe.ridewise.strategy.RideMatchingStrategy;
 import com.airtribe.ridewise.util.IdGenerator;

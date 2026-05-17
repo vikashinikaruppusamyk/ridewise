@@ -1,7 +1,5 @@
 package com.airtribe.ridewise.model;
 
-import com.airtribe.ridewise.RideStatus;
-
 public class Ride {
     private String id;
     private Rider rider;

@@ -1,4 +1,4 @@
-package com.airtribe.ridewise;
+package com.airtribe.ridewise.model;
 
 public enum VehicleType {
     BIKE,
